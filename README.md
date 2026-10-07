@@ -1,44 +1,77 @@
+# 👨‍💻 Kevin
 
-Hi 👋, I'm Kevin
-🚀 Estudante de Desenvolvimento Web | Programação
-🇧🇷 Brazil
+### 💻 Desenvolvedor em formação
 
-Sou estudante de Técnico em Informática para Internet e estou construindo minha jornada na programação, com foco em desenvolvimento web e, futuramente, Full Stack.
+Olá! Eu sou o Kevin 👋  
+Sou estudante de **Informática para Internet** e estou focado em evoluir na programação e no desenvolvimento web.
 
-Atualmente estou estudando e praticando JavaScript, HTML, CSS, PHP e SQL, sempre buscando melhorar minha lógica de programação e criar projetos próprios.
+---
 
-🌐 Where to find me
-<p align="left"> <a href="https://github.com/kevindavi150"> <img src="https://img.shields.io/badge/GitHub-KEVINDAVI150-181717?style=for-the-badge&logo=github" /> </a> <a href="https://instagram.com/kevind.x01"> <img src="https://img.shields.io/badge/Instagram-@KEVIND.X01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.tiktok.com/@kevind.x01"> <img src="https://img.shields.io/badge/TikTok-@KEVIND.X01-000000?style=for-the-badge&logo=tiktok" /> </a> </p>
+## 🛠️ Tecnologias
 
-🧠 What I do
-💻 Desenvolvimento de projetos web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-🧠 Prática de lógica de programação
+---
 
-🗄️ Banco de dados e SQL
+## 📚 Atualmente estudando
 
-🚀 Criação e evolução de projetos pessoais
+- 🌐 Desenvolvimento Web
+- 🟨 JavaScript
+- 🐘 PHP
+- 🗄️ SQL e Banco de Dados
+- 🔀 Git e GitHub
+- 🤖 Inteligência Artificial
+- 🚀 Desenvolvimento Full Stack
 
-📚 Aprendizado contínuo em programação
+---
 
-📊 GitHub Stats
-<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevindavi150&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindavi150&layout=compact&theme=tokyonight" /> </p>
+## 🚀 Projeto em destaque
 
-🚀 Currently Learning
-JavaScript
+### 📅 Agenda Digital
 
-Git & GitHub
+Projeto desenvolvido como **TCC**, com o objetivo de criar uma plataforma para organização e gerenciamento de atividades.
 
-React
+🔗 [Acessar o projeto](https://kevindavi150.github.io/Agenda-digital/)
 
-PHP
+🔗 [Ver código no GitHub](https://github.com/kevindavi150/Agenda-digital)
 
-SQL
+---
 
-Desenvolvimento Full Stack
+## 🎯 Objetivo
 
-💡 Philosophy
-"Cada projeto é uma oportunidade para aprender, melhorar e evoluir como programador."
+Meu objetivo é me tornar um **desenvolvedor Full Stack**, aprimorar minhas habilidades através de projetos reais e futuramente trabalhar com desenvolvimento de software.
 
-⭐ Sempre aprendendo, praticando e construindo.
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevindavi150&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevindavi150&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Redes sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevind.x01)
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@kevind.x01)
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo. Sempre evoluindo.
+
+</div>
